@@ -1,6 +1,6 @@
 Converts an extra_geom detector object to a skopi.UserDefinedDetector. You may need to specify the size of a single pixel. 
 
-Requires:
+Requires:  
 [skopi](https://github.com/chuckie82/skopi)  
 [extra_geom](https://github.com/European-XFEL/EXtra-geom)  
 [numpy](https://github.com/numpy/numpy)  
